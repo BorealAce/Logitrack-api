@@ -3,6 +3,7 @@ Aplicação backend desenvolvida em Spring Boot com autenticação e autorizaç�
 
 Inclui cadastro, login, gerenciamento de usuários e controle de acesso por roles (ADMIN e USER).
 
+
 # Integrantes
 - Erick Santos Santana RM: 559206
 - Gabriel Borges Gonçalves Silva RM: 558861
