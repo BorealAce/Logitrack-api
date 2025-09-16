@@ -1,8 +1,13 @@
 # LogiTrack - Sistema de Gerenciamento de Robôs Logísticos
-## 📌 Sobre o Projeto
 Aplicação backend desenvolvida em Spring Boot com autenticação e autorização de usuários.
 
 Inclui cadastro, login, gerenciamento de usuários e controle de acesso por roles (ADMIN e USER).
+
+# Integrantes
+- Erick Santos Santana RM: 559206
+- Gabriel Borges Gonçalves Silva RM: 558861
+- Rodrigo Vinzent Arinez Viscarra RM: 559192
+- Tarik Omar Mazloum RM: 554933
 
 ## ⚙️ Tecnologias Utilizadas
 - Java 17
