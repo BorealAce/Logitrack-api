@@ -39,3 +39,13 @@ Banco de dados H2:
 - GET /usuarios/{id} → Busca usuário por ID
 - PUT /usuarios/{id} → Atualiza usuário
 - DELETE /usuarios/{id} → Remove usuário
+
+## ⚒️ Alinhamento
+Na versão mais recente do backend do LogiTrack, foram feitas melhorias importantes em relação à versão anterior:
+
+- Adição de Spring Security + JWT para autenticação e autorização.
+- Implementação de roles (ADMIN/USUARIO) para controle de acesso.
+- Inclusão do CRUD de usuários com controle de perfil e permissões.
+- Organização do código em pacotes: config, controller, dto, model, repository e service.
+- Banco de dados: H2 para desenvolvimento e previsão de SQL em produção.
+- Endpoints protegidos com anotações do Spring Security.
